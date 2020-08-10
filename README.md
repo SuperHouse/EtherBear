@@ -1,5 +1,5 @@
-SuperHouse EtherUNO
-===================
+SuperHouse EtherBear
+=====================
 
 The EtherBear is an Arduino compatible development board for the
 ATmega1284P microcontroller, with a Wiznet W6100 Ethernet interface and
