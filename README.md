@@ -16,7 +16,7 @@ Features:
  * Overlay guide where you need it (both top and bottom)
  * D13 pin works for everything
  * RX pin biased
- * Mounting holes, power and X3 pads
+ * Mounting holes
 
 More information is available at:
 
@@ -33,6 +33,9 @@ non-commercial use.
 Credits
 -------
  * Jonathan Oxer <jon@oxer.com.au>
+
+ The EtherUNO is based on the EtherTen, which was designed by Jonathan
+ Oxer and Marc Alexander.
 
 
 License
