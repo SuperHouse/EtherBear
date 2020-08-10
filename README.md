@@ -1,10 +1,11 @@
 SuperHouse EtherUNO
 ===================
 
-The EtherUNO is a 100% Arduino Compatible Board, based on the Arduino
-UNO reference design, but with improvements and updates for ease of use,
-cost, and getting started. It also includes on-board Ethernet with PoE
-(Power-over-Ethernet) support and uses a USB-C socket.
+The EtherBear is an Arduino compatible development board for the
+ATmega1284P microcontroller, with a Wiznet W6100 Ethernet interface and
+Power-over-Ethernet support.
+
+The W6100 provides both IPv4 and IPv6 support.
 
 ![EtherUNO](Images/ETHERUNO-v4_0-oblique-render.jpg)
 
@@ -20,7 +21,7 @@ Features:
 
 More information is available at:
 
-  https://www.superhouse.tv/etheruno
+  https://www.superhouse.tv/etherbear
 
 
 Hardware
@@ -34,8 +35,8 @@ Credits
 -------
  * Jonathan Oxer <jon@oxer.com.au>
 
- The EtherUNO is based on the EtherTen, which was designed by Jonathan
- Oxer and Marc Alexander.
+The EtherBear is based on the EtherUNO, which in turn is based on the
+EtherTen, which was designed by Jonathan Oxer and Marc Alexander.
 
 
 License
